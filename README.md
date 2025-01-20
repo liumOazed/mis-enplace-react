@@ -1,8 +1,17 @@
-# React + Vite
+# Mis en place
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a dynamic webApp built using the React ecosystem and powered by the Vite development server.
 
-Currently, two official plugins are available:
+This app allows users to input at least four ingredients, and then, leveraging the power of the `gemini-1.5-pro` and `mistral-7b-instruct-v0.3` models, it generates a custom recipe tailored to the provided ingredients.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## To run locally 
+
+1. copy the repository in your project folder ` https://github.com/liumOazed/mis-enplace-react.git`
+2. Make sure you have local environment setup is ready for react if not then:
+     - run `nvm install --lts`
+     - `npm create vite@latest`
+     - create your project folder
+     - run `npm install`
+  
+3. Once the environment is ready just run `npm run dev`
+4. Check the other dependencies required for accessing `huggingface-api` and `gemini-api` from `requirements.txt`
