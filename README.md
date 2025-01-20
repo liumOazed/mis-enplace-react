@@ -15,3 +15,15 @@ This app allows users to input at least four ingredients, and then, leveraging t
   
 3. Once the environment is ready just run `npm run dev`
 4. Check the other dependencies required for accessing `huggingface-api` and `gemini-api` from `requirements.txt`
+
+## Screenshot 1
+![Image 1](./src/assets/1.png)
+
+## Screenshot 2
+![Image 2](./src/assets/2.png)
+
+## Screenshot 3
+![Image 3](./src/assets/3.png)
+
+## Screenshot 4
+![Image 4](./src/assets/4.png)
