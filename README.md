@@ -6,7 +6,7 @@ This app allows users to input at least four ingredients, and then, leveraging t
 
 ## To run locally 
 
-1. copy the repository in your project folder ` https://github.com/liumOazed/mis-enplace-react.git`
+1. clone the repository in your project folder ` https://github.com/liumOazed/mis-enplace-react.git`
 2. Make sure you have local environment setup is ready for react if not then:
      - run `nvm install --lts`
      - `npm create vite@latest`
