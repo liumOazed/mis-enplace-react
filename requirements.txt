@@ -1,0 +1,18 @@
+dynamic-react@0.0.0 /home/zed/React/dynamic-react
+├── @eslint/js@9.18.0
+├── @google/generative-ai@0.21.0
+├── @huggingface/inference@3.0.0
+├── @types/react-dom@18.3.5
+├── @types/react@18.3.18
+├── @vitejs/plugin-react@4.3.4
+├── dotenv@16.4.7
+├── eslint-plugin-react-hooks@5.1.0
+├── eslint-plugin-react-refresh@0.4.16
+├── eslint-plugin-react@7.37.3
+├── eslint@9.18.0
+├── globals@15.14.0
+├── react-dom@19.0.0-beta-26f2496093-20240514
+├── react-markdown@9.0.3
+├── react@19.0.0-beta-26f2496093-20240514
+└── vite@6.0.7
+
